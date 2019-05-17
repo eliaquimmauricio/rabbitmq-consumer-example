@@ -1,0 +1,15 @@
+C:\Users\emauricio\source\repos\RabbitMq.Consumer.Example\RabbitMq.Consumer.Example\bin\Debug\RabbitMq.Consumer.Example.exe.config
+C:\Users\emauricio\source\repos\RabbitMq.Consumer.Example\RabbitMq.Consumer.Example\bin\Debug\RabbitMq.Consumer.Example.exe
+C:\Users\emauricio\source\repos\RabbitMq.Consumer.Example\RabbitMq.Consumer.Example\bin\Debug\RabbitMq.Consumer.Example.pdb
+C:\Users\emauricio\source\repos\RabbitMq.Consumer.Example\RabbitMq.Consumer.Example\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\emauricio\source\repos\RabbitMq.Consumer.Example\RabbitMq.Consumer.Example\bin\Debug\RabbitMQ.Client.dll
+C:\Users\emauricio\source\repos\RabbitMq.Consumer.Example\RabbitMq.Consumer.Example\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\emauricio\source\repos\RabbitMq.Consumer.Example\RabbitMq.Consumer.Example\bin\Debug\RabbitMQ.Client.xml
+C:\Users\emauricio\source\repos\RabbitMq.Consumer.Example\RabbitMq.Consumer.Example\obj\Debug\RabbitMq.Consumer.Example.csprojAssemblyReference.cache
+C:\Users\emauricio\source\repos\RabbitMq.Consumer.Example\RabbitMq.Consumer.Example\obj\Debug\RabbitMq.Consumer.Example.Form1.resources
+C:\Users\emauricio\source\repos\RabbitMq.Consumer.Example\RabbitMq.Consumer.Example\obj\Debug\RabbitMq.Consumer.Example.Properties.Resources.resources
+C:\Users\emauricio\source\repos\RabbitMq.Consumer.Example\RabbitMq.Consumer.Example\obj\Debug\RabbitMq.Consumer.Example.csproj.GenerateResource.cache
+C:\Users\emauricio\source\repos\RabbitMq.Consumer.Example\RabbitMq.Consumer.Example\obj\Debug\RabbitMq.Consumer.Example.csproj.CoreCompileInputs.cache
+C:\Users\emauricio\source\repos\RabbitMq.Consumer.Example\RabbitMq.Consumer.Example\obj\Debug\RabbitMq.Consumer.Example.csproj.CopyComplete
+C:\Users\emauricio\source\repos\RabbitMq.Consumer.Example\RabbitMq.Consumer.Example\obj\Debug\RabbitMq.Consumer.Example.exe
+C:\Users\emauricio\source\repos\RabbitMq.Consumer.Example\RabbitMq.Consumer.Example\obj\Debug\RabbitMq.Consumer.Example.pdb
